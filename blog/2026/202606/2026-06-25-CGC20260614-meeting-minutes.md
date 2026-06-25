@@ -6,14 +6,14 @@
 * **访问密码：** WPIB
 ### 转写
 * **转写：** 转写_Jouleverse CGC会议（2026.06.14）
-* **日期：** 2026-06-07 14:08:33
+* **日期：** 2026-06-14 13:56:49
 * **转写文件：** https://meeting.tencent.com/ctm/2pQwpQeDeb
 * **访问密码：** MFC5
 ## 会务人员
 * 会议预定：Koant J-0
 * 会议主持兼书记员：楼兰渔夫 J-4
 ## 讨论区
-* **CGC会议20260607讨论区链接：** https://github.com/Jouleverse/open-meetings/issues/67
+* **CGC会议20260614讨论区链接：** https://github.com/Jouleverse/open-meetings/issues/67
 ## 会议议题
 1. 本周PoWh工作量汇报。
 2.话题探讨，是否可以用智能体实现焦耳链开户、注册、节点搭建等全流程管理？
